@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-es2015",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Configuration file for eslint that enables all es2015 features currently enabled in node",
   "main": "index.js",
   "scripts": {

@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-es2015",
+  "version": "1.0.0",
+  "description": "Configuration file for eslint that enables all es2015 features currently enabled in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "eslint *.js"
+  },
+  "keywords": [],
+  "author": "Jacob Carlsson <jacob.carlsson@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^1.10.3"
+  }
+}
